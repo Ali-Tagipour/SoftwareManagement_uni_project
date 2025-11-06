@@ -169,11 +169,10 @@
   </main>
 
   <footer>
-    © <span id="y"></span> کلینک زیبایی ملی مهارت • همه حقوق محفوظ است
+    © <span id="y"></span> کلینک زیبایی ملی مهارت • همه حقوق محفوظ استssssssssssssss
   </footer>
 
   <script src="Scripts/script.js"></script>
 </body>
 </html>
 
-1454154563412
