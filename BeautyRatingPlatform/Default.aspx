@@ -1,5 +1,4 @@
-﻿@@ -1,178 +1 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="BeautyRatingPlatform.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="BeautyRatingPlatform.Default" %>
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
@@ -176,4 +175,3 @@
   <script src="Scripts/script.js"></script>
 </body>
 </html>
-ali
